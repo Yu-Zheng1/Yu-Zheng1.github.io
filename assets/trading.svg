@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" role="img" aria-label="Stylized market chart">
+<rect width="900" height="400" fill="#10161c"/>
+<g stroke="#263746" stroke-width="1" opacity=".55"><path d="M0 80H900M0 160H900M0 240H900M0 320H900"/><path d="M150 0V400M300 0V400M450 0V400M600 0V400M750 0V400"/></g>
+<polyline points="20,320 70,300 110,322 145,280 180,292 220,245 255,265 295,230 330,245 365,210 400,218 440,175 478,192 515,150 555,160 595,118 632,135 670,92 710,105 748,64 790,75 835,38 880,52" fill="none" stroke="#d8eef7" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<g stroke="#7dc3df" stroke-width="4"><path d="M145 265v35M295 215v48M440 158v48M595 100v45M748 50v38M835 24v34"/></g>
+</svg>
