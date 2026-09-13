@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" role="img" aria-label="Retro-futurist robot in a desert landscape">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8ca6bb"/><stop offset="1" stop-color="#e1b083"/></linearGradient></defs>
+<rect width="900" height="400" fill="url(#sky)"/><circle cx="735" cy="92" r="52" fill="#e8d5b5" opacity=".9"/><path d="M0 315 C150 280 260 300 380 270 C520 235 650 300 900 250 V400H0Z" fill="#b47c55"/><path d="M500 286 L585 150 L635 286Z" fill="#6d584a"/><path d="M565 286 L628 115 L682 286Z" fill="#7b6250"/>
+<g transform="translate(220 72)">
+<ellipse cx="115" cy="74" rx="84" ry="68" fill="#d9d7cf" stroke="#333" stroke-width="5"/><circle cx="92" cy="70" r="16" fill="#222"/><circle cx="138" cy="70" r="16" fill="#222"/><circle cx="92" cy="70" r="6" fill="#7ed0e4"/><circle cx="138" cy="70" r="6" fill="#7ed0e4"/>
+<rect x="58" y="132" width="114" height="128" rx="38" fill="#cfcfc8" stroke="#333" stroke-width="5"/><path d="M58 176H172M78 132L65 92M152 132L165 92" stroke="#555" stroke-width="5"/>
+<path d="M48 158 C10 180 5 230 20 255" fill="none" stroke="#cfcfc8" stroke-width="22" stroke-linecap="round"/><path d="M182 158 C220 180 225 230 210 255" fill="none" stroke="#cfcfc8" stroke-width="22" stroke-linecap="round"/>
+<path d="M85 258L72 328M145 258L158 328" stroke="#bfc0bb" stroke-width="24" stroke-linecap="round"/>
+</g>
+</svg>
