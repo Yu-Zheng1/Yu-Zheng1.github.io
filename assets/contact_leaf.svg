@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 420" role="img" aria-label="Leaf sprig">
+<path d="M150 390 C160 300 160 220 170 110" fill="none" stroke="#586d58" stroke-width="4"/>
+<path d="M160 300 C120 280 90 250 70 220M165 250 C205 230 235 195 250 160M168 205 C130 180 110 150 92 120M172 165 C205 145 228 120 242 95" fill="none" stroke="#586d58" stroke-width="3"/>
+<g fill="#8fa590" stroke="#586d58" stroke-width="2"><ellipse cx="100" cy="260" rx="34" ry="17" transform="rotate(28 100 260)"/><ellipse cx="228" cy="205" rx="35" ry="18" transform="rotate(-28 228 205)"/><ellipse cx="118" cy="166" rx="30" ry="16" transform="rotate(35 118 166)"/><ellipse cx="224" cy="125" rx="30" ry="16" transform="rotate(-30 224 125)"/><ellipse cx="164" cy="106" rx="25" ry="14" transform="rotate(75 164 106)"/></g>
+</svg>
